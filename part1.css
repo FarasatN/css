@@ -1,0 +1,48 @@
+/* some tag{
+  property:value;
+} */
+body{
+  background: url(https://i.insider.com/5bfec49248eb12058423acf7?width=1066&format=jpeg);
+  background-repeat: no-repeat;
+}
+h1{
+  color: rgb(0,255,0);
+}
+
+h2{
+  color: rgba(0,0,255,1);
+}
+
+.firstdiv{
+  color: blue;
+}
+.seconddiv{
+  color:purple;
+}
+#p{
+  color: orange;
+  text-decoration: line-through;
+}
+h3+ul{
+  border:4px dotted purple;
+}
+li a:visited{
+  color:brown;
+}
+li a[href="https://www.npr.org"]{
+  color: red;
+  border: 3px solid green;
+}
+li{
+  color:red;
+}
+.topitems{
+  color:blue;
+}
+#two{
+  border: 3px  solid black;
+}
+
+/* *{
+  color:blue;
+} */
